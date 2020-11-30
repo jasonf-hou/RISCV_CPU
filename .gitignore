@@ -1,0 +1,11 @@
+*~
+*.tmp
+*.jou
+*.log
+*.str
+vivado_final/vivado_final.cache/
+vivado_final/vivado_final.hw/
+vivado_final/vivado_final.ip_user_files/
+vivado_final/vivado_final.runs/
+vivado_final/vivado_final.sim/
+.DS_Store
