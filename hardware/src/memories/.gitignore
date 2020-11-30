@@ -1,0 +1,16 @@
+*.coe
+*.asy
+*.txt
+*.gise
+*.mif
+*.ngc
+*.v
+*.veo
+*.xise
+*.tcl
+*.pdf
+*.cgc
+*.cgp
+*.log
+tmp
+xlnx_auto_0_xdb
